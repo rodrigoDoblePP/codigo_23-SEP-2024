@@ -1,4 +1,4 @@
-#codigo_23-SEP-2024
+#codigo3_23-SEP-2024
 codigo 3
 
 #Programa que solicite al usuario el ingreso de una temperatura en escala Fahrenhe, muestre el equivalente en grados Celsius
